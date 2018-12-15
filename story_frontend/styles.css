@@ -5,6 +5,7 @@ body, button, input {
 body{
   /* border-style: solid;
   border-radius: 10px; */
+  /* padding-left: 100px !important; */
   max-width: 1440px;
   min-height: 720px;
   background-image: url("https://stmed.net/sites/default/files/minimalism-wallpapers-25255-1455717.jpg");
